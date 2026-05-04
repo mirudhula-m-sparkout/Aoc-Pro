@@ -1,7 +1,12 @@
-//auth file
+// //auth file
+// https://github.com/mirudhula-m-sparkout/Aoc-Pro/pull/2
+// //created for practice
 
-//created for practice
+// //feature-module here added for this branch2
 
-//feature-module here added for this branch2
-
-buttonColor = "red";
+// <<<<<<< login-feature
+// buttonColor = "blue";
+// =======
+// buttonColor = "red";
+// >>>>>>> main
+buttonColor = "blue";
